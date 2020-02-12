@@ -1,0 +1,769 @@
+﻿Age,Height (ft-in),Weight (lb),Shoulder Pain,R/L/B/P,Bra Color,Bra Size,Brand,Wide Straps,Padded Straps,Wired,Molded Foam,Smooth Cup,Has Lace Details,Active,Lace Inset,Front/Back Closure,Issue with reaching around back,Bra Style
+76,"5'0""",100,N,R,nude,34AA,ABC,Y,N,N,N,N,N,N,N,B,N,103
+72,"4'11""",122,N,R,nude,38AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'11""",122,N,R,nude,38AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+74,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+74,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+76,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+76,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"5'1""",128,Y,L,nude,36AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+81,"5'0""",109,N,B,black,38B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,nude,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,nude,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+61,"5'7""",135,N,R,black,36B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+61,"5'7""",135,N,R,white,36B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+74,"5'0""",162,N,L,black,38B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+74,"5'8""",190,Y,R,nude,44B,ABC,Y,N,N,N,N,N,N,N,F/B,Y,123
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+68,"5'6""",135,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+68,"5'6""",135,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+74,"5'8""",190,Y,R,white,44B,ABC,Y,N,N,N,N,N,N,N,F,Y,133
+70,"5'3""",140,N,R,cream,38B,ABC,Y,N,N,N,Y,Y,N,N,B,N,503
+74,"5'6""",145,N,R,nude,36C,ABC,Y,Y,N,Y,Y,N,N,N,B,N,505
+74,"5'1""",102,Y,RP,nude,36C,ABC,Y,Y,N,Y,Y,N,N,N,B,N,505
+74,"5'0""",162,N,L,white,38B,ABC,N,N,N,Y,Y,Y,N,Y,B,N,508
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+76,"5'0""",100,N,R,nude,34AA,ABC,Y,Y,N,N,Y,N,N,N,B,N,525
+69,"5'3""",135,N,R,black,40A,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+77,"5'0""",165,N,L,black,42AA,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+58,"5'2""",142,N,L,black,38D,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+53,"5'1""",151,N,L,black,36A,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+87,"5'6""",160,N,R,nude,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+87,"5'6""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+54,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+54,"5'2""",110,N,R,black,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+55,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+56,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+56,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette UW
+79,"5'8""",137,N,L,black,38A,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+81,"5'0""",109,N,B,black,38B,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+72,"5'8""",160,N,R,black,38D,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,N,Y,N,N,B,N,Aurelie UW
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,N,Y,N,N,B,N,Aurelie UW
+53,"5'1""",151,N,L,cream,36A,Amoena,N,N,N,Y,Y,Y,N,N,B,N,Aurelie WF Pad
+66,"5'7""",350,N,R,nude,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+66,"5'7""",350,N,R,nude,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+66,"5'7""",350,N,R,white,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,nude,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,nude,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,black,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+63,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+63,"5'8""",165,N,R,nude,38C,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+52,"5'1""",151,N,L,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+64,"5'4""",165,Y,R,nude,40C,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+67,"5'0""",126,N,B,nude,36AA/M,Amoena,Y,N,N,N,Y,N,N,N,N/A,Y,Becky
+83,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+83,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+84,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+84,"5'2""",165,N,R,white,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+82,"5'2""",165,N,R,white,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+82,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+78,"5'8""",145,N,L,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,white,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+57,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+69,"5'6""",155,N,R,white,34D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Bianca
+63,"5'8""",165,N,R,white,38C,Amoena,N,N,Y,Y,Y,N,N,N,B,N,Bianca Underwire
+81,"5'0""",109,N,B,white,38B,Amoena,N,N,Y,Y,Y,N,N,N,B,N,Bianca Underwire
+68,"5'6""",135,N,R,nude,38A/M,ABC,N,N,N,Y,Y,N,Y,N,B,N,Comfy
+74,"5'3""",135,N,B,white,38A,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+75,"5'3""",135,N,B,white,38A,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+60,"5'7""",135,N,R,white,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+60,"5'7""",135,N,R,white,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+61,"5'3""",130,N,L,black,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+72,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,black,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+69,"5'6""",155,N,R,black,36D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+74,"5'1""",102,Y,RP,white,38C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"5'8""",160,N,R,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'7""",160,N,L,nude,42C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"4'11""",122,N,R,nude,38AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+69,"5'8""",165,N,R,nude,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+61,"5'3""",130,N,L,nude,36B,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+72,"5'1""",128,Y,L,nude,36A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+72,"5'1""",128,Y,L,white,36A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+76,"5'0""",100,N,R,white,34AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+58,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,N,N,N,B,N,Ella
+80,"5'0""",120,N,L,black,36D,Amoena,N,N,N,N,N,N,N,N,B,N,Ella
+53,"5'2""",155,N,R,black,38DD,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+77,"5'0""",100,N,R,nude,32A,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+78,"5'0""",100,N,R,nude,32A,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+80,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+80,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,blue,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,nude,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,white,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,black,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,nude,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,white,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+67,"5'0""",126,N,B,black,36AA/Medium A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+60,"5'2""",145,N,L,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Gracy
+80,"5'2""",160,Y,R,white,42B,Amoena,Y,Y,N,N,N,N,N,N,F,Y,Greta
+74,"5'8""",190,Y,R,nude,44C,Amoena,Y,Y,N,N,N,N,N,N,F,Y,Greta
+72,"5'8""",160,N,R,white,38D,Amoena,Y,N,N,N,Y,N,N,N,B,N,Helena
+55,"5'7""",160,N,L,nude,42D,Amoena,Y,N,N,N,Y,N,N,N,B,N,Helena
+67,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+67,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'3""",115,N,R,white,34B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'3""",115,N,R,white,34B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'3""",135,N,B,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'3""",135,N,B,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'2""",145,N,L,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'2""",145,N,L,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'2""",145,N,L,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'2""",145,N,L,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+60,"5'2""",145,N,L,black,40A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,cream,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+53,"5'2""",155,N,R,white,38DD,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+53,"5'2""",155,N,R,cream,38DD,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+55,"5'2""",110,N,R,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+56,"5'2""",110,N,R,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'0""",162,N,L,cream,38B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+83,"5'2""",165,N,R,black,42B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,nude,40B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,nude,40B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+46,"5'9""",120,N,RP,burgandy,36DD,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+55,"5'4""",202,Y,LP,black,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+47,"5'7""",253,N,R,black,42G,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,white,40B,Amoena,Y,N,N,N,N,Y,N,N,B,N,Jasmin
+74,"5'2""",132,N,R,white,40A,Amoena,Y,N,N,N,N,Y,N,N,B,N,Jasmin
+72,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+69,"5'6""",155,N,R,cream,34DD,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+74,"5'1""",102,Y,RP,cream,38C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+74,"5'6""",145,N,R,black,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+74,"5'6""",145,N,R,nude,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,nude,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,nude,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,black,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'3""",135,N,R,cream,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'3""",135,N,R,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,cream,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,cream,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,cream,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,black,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+77,"5'0""",165,N,L,nude,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+77,"5'0""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"5'0""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,black,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,cream,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,black,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+67,"5'6""",135,N,L,nude,34A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+67,"5'6""",135,N,L,nude,34A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'6""",148,N,R,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+63,"5'4""",195,N,RP,cream,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'1""",151,N,L,nude,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'1""",151,N,L,black,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'1""",151,N,L,nude,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+63,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'7""",143,N,R,black,36B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+49,"5'3""",145,Y,LP,nude,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,nude,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,black,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,cream,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'4""",195,N,RP,nude,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'4""",195,N,RP,black,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+64,"5'4""",165,Y,R,black,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+64,"5'4""",165,Y,R,nude,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+46,"5'9""",120,N,RP,burgandy,36DD,Amoena,N,N,N,N,N,Y,N,N,B,N,Lily Bra
+63,"5'7""",143,N,R,nude,36B,Amoena,N,N,N,N,Y,N,N,N,B,N,Magdalena
+63,"5'2""",105,N,R,blue,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+55,"5'2""",110,N,R,grey,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+77,"5'0""",165,N,L,nude,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+49,"5'3""",145,Y,LP,cream,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+70,"4'10""",79,N,R,blue,32AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+70,"4'10""",79,N,R,blue,32AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+46,"5'9""",120,N,RP,black,36DD,Amoena,N,N,N,N,N,Y,N,N,B,N,Marie Bra
+55,"5'7""",160,N,L,black,42C,Amoena,Y,N,N,N,Y,N,N,N,B,N,Marlena
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,white,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,cream,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'3""",150,Y,R,cream,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'3""",150,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+47,"5'9""",120,N,RP,black,36DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+47,"5'9""",120,N,RP,blue,36DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+77,"5'0""",100,N,R,nude,34AA,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+78,"5'0""",100,N,R,nude,34AA,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,nude,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,nude,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,black,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+70,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+74,"5'2""",132,N,R,white,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+74,"5'2""",132,N,R,nude,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+55,"5'4""",202,Y,LP,nude,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+55,"5'4""",202,Y,LP,black,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+75,"5'4""",102,N,L,white,36AA,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+75,"5'4""",102,N,L,white,36AA,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+58,"5'2""",142,N,L,black,38D,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Power Sports Bra
+57,"5'6""",170,N,R,white,40DD,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+57,"5'6""",170,N,R,white,40DD,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+79,"5'8""",137,N,L,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+78,"5'8""",145,N,L,nude,38B,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+70,"5'3""",140,N,R,nude,38B,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,white,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'6""",148,N,R,nude,40A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+74,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+74,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+73,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+73,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+75,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+75,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+76,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, Vee"
+76,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, Vee"
+56,"5'3""",150,Y,R,black,40B/M,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
+49,"5'3""",145,Y,LP,black,42AA/Large,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
+67,"5'0""",126,N,B,black,36AA/M,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
+76,"5'0""",100,N,R,nude,34AA,ABC,Y,N,N,N,N,N,N,N,B,N,103
+72,"4'11""",122,N,R,nude,38AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'11""",122,N,R,nude,38AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+62,"5'7""",135,N,R,black,36B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+74,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+74,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+76,"4'9""",110,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+76,"4'9""",110,N,R,white,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+72,"5'1""",128,Y,L,nude,36AA,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+81,"5'0""",109,N,B,black,38B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+67,"4'10""",114,N,R,nude,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,black,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+68,"4'10""",110,N,R,nude,36A,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+75,"5'4""",110,N,L,nude,34B,ABC,N,N,N,Y,Y,N,N,N,B,N,105
+61,"5'7""",135,N,R,black,36B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+61,"5'7""",135,N,R,white,36B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+74,"5'0""",162,N,L,black,38B,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+75,"5'0""",145,N,L,white,40A,ABC,Y,Y,N,Y,Y,Y,N,Y,B,N,108
+74,"5'8""",190,Y,R,nude,44B,ABC,Y,N,N,N,N,N,N,N,F/B,Y,123
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+79,"4'10""",110,Y,L,nude,34A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+68,"5'6""",135,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+68,"5'6""",135,N,R,nude,38A,ABC,N,N,N,Y,Y,N,N,N,B,N,125
+74,"5'8""",190,Y,R,white,44B,ABC,Y,N,N,N,N,N,N,N,F,Y,133
+70,"5'3""",140,N,R,cream,38B,ABC,Y,N,N,N,Y,Y,N,N,B,N,503
+74,"5'6""",145,N,R,nude,36C,ABC,Y,Y,N,Y,Y,N,N,N,B,N,505
+74,"5'1""",102,Y,RP,nude,36C,ABC,Y,Y,N,Y,Y,N,N,N,B,N,505
+74,"5'0""",162,N,L,white,38B,ABC,N,N,N,Y,Y,Y,N,Y,B,N,508
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+65,"5'7""",320,N,R,nude,50D,ABC,Y,Y,N,N,N,N,N,N,B,N,511
+76,"5'0""",100,N,R,nude,34AA,ABC,Y,Y,N,N,Y,N,N,N,B,N,525
+69,"5'3""",135,N,R,black,40A,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+77,"5'0""",165,N,L,black,42AA,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+58,"5'2""",142,N,L,black,38D,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+53,"5'1""",151,N,L,black,36A,Amoena,N,N,N,Y,Y,Y,N,Y,B,N,Amber
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+66,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+65,"5'6""",140,N,R,white,38A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+72,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+71,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+70,"5'3""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+87,"5'6""",160,N,R,nude,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+87,"5'6""",160,N,R,black,40C,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+54,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+54,"5'2""",110,N,R,black,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+55,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+56,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+56,"5'2""",110,N,R,nude,38B,Amoena,N,N,N,N,N,Y,N,N,B,N,Annabell
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette UW
+79,"5'8""",137,N,L,black,38A,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+81,"5'0""",109,N,B,black,38B,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+72,"5'8""",160,N,R,black,38D,Amoena,N,N,Y,N,Y,Y,N,N,B,N,Annette WF
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,N,Y,N,N,B,N,Aurelie UW
+73,"5'2""",130,N,R,cream,38B,Amoena,N,N,Y,N,N,Y,N,N,B,N,Aurelie UW
+53,"5'1""",151,N,L,cream,36A,Amoena,N,N,N,Y,Y,Y,N,N,B,N,Aurelie WF Pad
+66,"5'7""",350,N,R,nude,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+66,"5'7""",350,N,R,nude,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+66,"5'7""",350,N,R,white,54C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,nude,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,nude,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+64,"5'7""",350,N,R,black,52C,Hanes,N,N,Y,N,N,Y,N,N,B,N,Balconette T-Shirt
+63,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+65,"5'2""",105,N,R,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+63,"5'8""",165,N,R,nude,38C,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+52,"5'1""",151,N,L,nude,36A,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+64,"5'4""",165,Y,R,nude,40C,Amoena,N,N,Y,Y,Y,N,Y,N,B,N,Barbara
+67,"5'0""",126,N,B,nude,36AA/M,Amoena,Y,N,N,N,Y,N,N,N,N/A,Y,Becky
+83,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+83,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+84,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+84,"5'2""",165,N,R,white,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+82,"5'2""",165,N,R,white,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+82,"5'2""",165,N,R,nude,42B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+78,"5'8""",145,N,L,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+55,"5'3""",140,N,R,white,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+60,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+59,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+57,"5'6""",170,N,R,white,40D,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+68,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+65,"5'1""",135,N,L,nude,38A,Amoena,Y,N,N,N,N,N,N,N,B,N,Bella Bra
+69,"5'6""",155,N,R,white,34D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Bianca
+63,"5'8""",165,N,R,white,38C,Amoena,N,N,Y,Y,Y,N,N,N,B,N,Bianca Underwire
+81,"5'0""",109,N,B,white,38B,Amoena,N,N,Y,Y,Y,N,N,N,B,N,Bianca Underwire
+68,"5'6""",135,N,R,nude,38A/M,ABC,N,N,N,Y,Y,N,Y,N,B,N,Comfy
+74,"5'3""",135,N,B,white,38A,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+75,"5'3""",135,N,B,white,38A,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+60,"5'7""",135,N,R,white,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+60,"5'7""",135,N,R,white,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+61,"5'3""",130,N,L,black,36B,Amoena,N,N,N,N,Y,Y,N,Y,B,N,Dana
+72,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+73,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,black,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'5""",147,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+69,"5'6""",155,N,R,black,36D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+74,"5'1""",102,Y,RP,white,38C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"5'8""",160,N,R,black,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+55,"5'7""",160,N,L,nude,42C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Dianna
+72,"4'11""",122,N,R,nude,38AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+69,"5'8""",165,N,R,nude,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+80,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+79,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,nude,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+82,"5'2""",158,Y,R,white,40C,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+74,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+73,"5'0""",100,N,R,white,36AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+61,"5'3""",130,N,L,nude,36B,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+72,"5'1""",128,Y,L,nude,36A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+72,"5'1""",128,Y,L,white,36A,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+76,"5'0""",100,N,R,white,34AA,Amoena,Y,N,N,N,N,N,N,N,B,N,Dorothy
+58,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,N,N,N,B,N,Ella
+80,"5'0""",120,N,L,black,36D,Amoena,N,N,N,N,N,N,N,N,B,N,Ella
+53,"5'2""",155,N,R,black,38DD,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+77,"5'0""",100,N,R,nude,32A,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+78,"5'0""",100,N,R,nude,32A,Amoena,N,N,N,N,N,Y,N,N,F/B,Y,Ellen
+80,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+80,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+79,"5'2""",160,Y,R,white,42B/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,blue,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,nude,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+81,"5'10""",200,Y,L,white,46A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,black,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,nude,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+87,"5'2""",150,Y,R,white,42A/Large A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+67,"5'0""",126,N,B,black,36AA/Medium A/B,Amoena,Y,N,N,N,Y,N,N,N,F,Y,Frances
+60,"5'2""",145,N,L,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Gracy
+80,"5'2""",160,Y,R,white,42B,Amoena,Y,Y,N,N,N,N,N,N,F,Y,Greta
+74,"5'8""",190,Y,R,nude,44C,Amoena,Y,Y,N,N,N,N,N,N,F,Y,Greta
+72,"5'8""",160,N,R,white,38D,Amoena,Y,N,N,N,Y,N,N,N,B,N,Helena
+55,"5'7""",160,N,L,nude,42D,Amoena,Y,N,N,N,Y,N,N,N,B,N,Helena
+67,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+67,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+68,"5'3""",125,N,R,cream,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'3""",125,N,R,white,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'3""",115,N,R,white,34B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'3""",115,N,R,white,34B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'3""",135,N,B,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'3""",135,N,B,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'2""",145,N,L,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+70,"5'2""",145,N,L,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'2""",145,N,L,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+69,"5'2""",145,N,L,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+60,"5'2""",145,N,L,black,40A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+77,"5'10""",142,N,B,cream,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+76,"5'10""",142,N,B,black,36C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+75,"5'10""",132,N,B,black,34C,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+53,"5'2""",155,N,R,white,38DD,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+53,"5'2""",155,N,R,cream,38DD,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+55,"5'2""",110,N,R,cream,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+56,"5'2""",110,N,R,black,38A,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+74,"5'0""",162,N,L,cream,38B,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+57,"5'2""",142,N,L,black,38D,Amoena,N,N,N,N,N,Y,N,Y,B,N,Isabel
+83,"5'2""",165,N,R,black,42B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,nude,40B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,nude,40B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+46,"5'9""",120,N,RP,burgandy,36DD,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+80,"5'2""",180,N,R,nude,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+55,"5'4""",202,Y,LP,black,46B,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+47,"5'7""",253,N,R,black,42G,Amoena,Y,Y,N,N,N,N,N,N,B,N,Isadora Bra
+69,"5'3""",145,N,R,white,40B,Amoena,Y,N,N,N,N,Y,N,N,B,N,Jasmin
+74,"5'2""",132,N,R,white,40A,Amoena,Y,N,N,N,N,Y,N,N,B,N,Jasmin
+72,"5'3""",160,N,L,nude,38D,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+69,"5'6""",155,N,R,cream,34DD,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+74,"5'1""",102,Y,RP,cream,38C,Amoena,Y,Y,N,N,Y,N,N,N,B,N,Katy
+74,"5'6""",145,N,R,black,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+74,"5'6""",145,N,R,nude,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+62,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,nude,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,nude,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"4'10""",100,Y,L,black,32A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'3""",135,N,R,cream,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'3""",135,N,R,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+71,"5'2""",110,Y,L,cream,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+64,"5'4""",197,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,nude,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+65,"5'4""",210,N,R,cream,40C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+73,"5'2""",145,Y,R,nude,36D,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,cream,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,cream,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+80,"5'5""",138,N,R,black,38C,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+70,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+68,"5'5""",135,N,L,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+76,"5'0""",145,N,L,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+77,"5'0""",165,N,L,nude,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+49,"5'3""",135,Y,LP,cream,40AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+77,"5'0""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+78,"5'0""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,black,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+46,"5'3""",110,N,R,cream,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'3""",100,N,R,black,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+67,"5'6""",135,N,L,nude,34A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+67,"5'6""",135,N,L,nude,34A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+69,"5'6""",148,N,R,nude,40A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+63,"5'4""",195,N,RP,cream,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+53,"5'1""",151,N,L,nude,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'1""",151,N,L,black,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+52,"5'1""",151,N,L,nude,36A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara
+63,"5'2""",105,N,R,nude,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'7""",143,N,R,black,36B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+49,"5'3""",145,Y,LP,nude,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,nude,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,black,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+62,"5'4""",195,N,RP,cream,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'4""",195,N,RP,nude,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+63,"5'4""",195,N,RP,black,42DD,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+64,"5'4""",165,Y,R,black,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+64,"5'4""",165,Y,R,nude,42A,Amoena,N,N,N,Y,Y,N,N,N,B,N,Lara Satin
+46,"5'9""",120,N,RP,burgandy,36DD,Amoena,N,N,N,N,N,Y,N,N,B,N,Lily Bra
+63,"5'7""",143,N,R,nude,36B,Amoena,N,N,N,N,Y,N,N,N,B,N,Magdalena
+63,"5'2""",105,N,R,blue,36AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+63,"5'2""",130,Y,L,nude,38AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+55,"5'2""",110,N,R,grey,38B,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+77,"5'0""",165,N,L,nude,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+49,"5'3""",145,Y,LP,cream,42AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+52,"5'3""",100,N,R,nude,34AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+70,"4'10""",79,N,R,blue,32AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+70,"4'10""",79,N,R,blue,32AA,Amoena,N,N,N,Y,Y,N,N,N,B,N,Mara
+46,"5'9""",120,N,RP,black,36DD,Amoena,N,N,N,N,N,Y,N,N,B,N,Marie Bra
+55,"5'7""",160,N,L,black,42C,Amoena,Y,N,N,N,Y,N,N,N,B,N,Marlena
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'2""",110,N,L,cream,34B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,white,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,cream,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+57,"5'3""",150,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'3""",150,Y,R,cream,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+56,"5'3""",150,Y,R,nude,40B,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+47,"5'9""",120,N,RP,black,36DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+47,"5'9""",120,N,RP,blue,36DD,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+77,"5'0""",100,N,R,nude,34AA,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+78,"5'0""",100,N,R,nude,34AA,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,nude,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,nude,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+58,"5'7""",170,N,B,black,42A,Amoena,Y,Y,N,N,Y,N,Y,N,B,N,Mona Bra
+70,"5'3""",140,N,R,nude,38B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+74,"5'2""",132,N,R,white,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+74,"5'2""",132,N,R,nude,40A,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+55,"5'4""",202,Y,LP,nude,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+55,"5'4""",202,Y,LP,black,44B,Amoena,Y,N,N,N,N,N,N,N,B,N,Nora Bra
+49,"5'9""",150,N,RP,black,38DD,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+75,"5'4""",102,N,L,white,36AA,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+75,"5'4""",102,N,L,white,36AA,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Performance Bra
+58,"5'2""",142,N,L,black,38D,Amoena,Y,N,N,N,Y,N,Y,N,B,N,Power Sports Bra
+57,"5'6""",170,N,R,white,40DD,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+57,"5'6""",170,N,R,white,40DD,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+69,"5'8""",165,N,R,nude,40A,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+78,"5'2""",170,N,R,nude,44B,Amoena,N,N,N,N,N,N,N,N,B,N,Rita Bra
+79,"5'8""",137,N,L,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+78,"5'8""",145,N,L,nude,38B,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+67,"5'6""",125,N,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+70,"5'3""",140,N,R,nude,38B,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'2""",110,Y,L,nude,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,nude,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+82,"5'0""",109,N,B,white,38A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+69,"5'6""",148,N,R,nude,40A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+75,"5'4""",112,Y,R,white,36A,Amoena,N,N,N,N,N,N,N,N,B,N,Ruth
+74,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+74,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+73,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+73,"5'0""",100,N,B,white,S,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+75,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+75,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,Y,N,Y,N/A,Y,"Softee Cami, Lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+72,"5'2""",118,Y,R,white,S,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, No lace"
+76,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, Vee"
+76,"5'3""",135,N,B,white,M,Royal Arms,Y,N,N,N,Y,N,N,N,N/A,Y,"Softee Cami, Vee"
+56,"5'3""",150,Y,R,black,40B/M,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
+49,"5'3""",145,Y,LP,black,42AA/Large,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
+67,"5'0""",126,N,B,black,36AA/M,Amoena,Y,N,N,Y,Y,N,Y,N,F,Y,Zipper Sports MDSP
