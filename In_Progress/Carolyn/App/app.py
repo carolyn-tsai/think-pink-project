@@ -8,11 +8,11 @@ from flask import (
 import pickle
 from sklearn import tree
 
-# bra_folder = os.path.join("static", "images")
+bra_folder = os.path.join("static", "images")
 
 app = Flask(__name__)
 
-# app.config["bra_images"] = bra_folder
+app.config["bra_images"] = bra_folder
 
 @app.route("/")
 def home_page():
@@ -45,11 +45,11 @@ def send_data():
         patient_submission = [[age, weight, height, band_size, cup_size, mastectomy_side, shoulder_pain, bra_color, brand, wide_strap, padded_strap, wired, molded_foam, smooth_cup, lace_details, active, lace_insert, front_back, reach_back, embroidery, jacquard]]
         dec_tree_model = open("decision_tree_model.sav", "rb")
         tree_model = pickle.load(dec_tree_model)
-        bra_recommendation = tree_model.predict(patient_submission)
-        #bra_recommendation = recommendation
-        #bra_image_jpg = f'"{bra_recommendation}.jpg"'
-        #bra_image_path = os.path.join(app.config["bra_images"], bra_image_jpg)
-    return render_template("recommendation.html", variable=bra_recommendation)
+        recommendation = tree_model.predict(patient_submission)
+        bra_recommendation = recommendation[0]
+        bra_image_jpg = f"{bra_recommendation}.JPG"
+        bra_image = os.path.join(app.config["bra_images"], bra_image_jpg)
+        return render_template("recommendation.html", bra_style=bra_recommendation, bra_image_path=bra_image)
 
 
 
