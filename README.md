@@ -42,13 +42,13 @@ The decision tree model was the machine learning algorithm that had the best acc
 ![SVM](Main/Images/SVM.png)
 ![KNN 1](Main/Images/KNN_1.png)
 ![KNN 2](Main/Images/KNN_2.png)
-![Random Forest](Main/Images/Random_forest.png)
+![Random Forest](Main/Images/Random_Forest.png)
 
 After the questionnaire form is filled out and submitted, our saved decision tree algorithm will predict which bra style would fit the best. We used *pickle* in order to save and load the model.
 
 The recommended bra name and a photo of the bra will be displayed on a new web page.
 
-![Bra Recommendation](Main/Images/recommendation.png)
+![Bra Recommendation](Main/Images/recommendation.JPG)
 
 
 ## Conclusions
