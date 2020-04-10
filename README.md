@@ -38,14 +38,17 @@ Data was collected on over 500 patients’ bra fit based on age, height, weight,
 
 The decision tree model was the machine learning algorithm that had the best accuracy. We looked at SVM, KNN, and random forest as well. 
 
-![Decision Tree](Main/Images/Decision_Tree.PNG)
-![SVM](Main/Images/SVM.PNG)
+![Decision Tree](Main/Images/Decision_Tree.png)
+![SVM](Main/Images/SVM.png)
+![KNN 1](Main/Images/KNN_1.png)
+![KNN 2](Main/Images/KNN_2.png)
+![Random Forest](Main/Images/Random_forest.png)
 
 After the questionnaire form is filled out and submitted, our saved decision tree algorithm will predict which bra style would fit the best. We used *pickle* in order to save and load the model.
 
 The recommended bra name and a photo of the bra will be displayed on a new web page.
 
-![Bra Recommendation](Main/Images/recommendation.PNG)
+![Bra Recommendation](Main/Images/recommendation.png)
 
 
 ## Conclusions
