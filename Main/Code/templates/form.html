@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Think Pink Project</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}" />
+  </head>
+<body>
+  <div class="form-style-3">
+    <form method="post" action="/send">
+            <fieldset><legend>Questionnaire</legend>
+              <label for="field1"><span>Please enter your age:</span></label><br>
+              <input type="number" name="age" min="1" max="100" required><br><br>
+              <label for="field2"><span>Please choose your band size:</span></label><br>
+              <select id="band_size_data" name="band_size" required>
+                <option value="32">32</option>
+                <option value="34">34</option>
+                <option value="36">36</option>
+                <option value="38">38</option>
+                <option value="40">40</option>
+                <option value="42">42</option>
+                <option value="44">44</option>
+                <option value="46">46</option>
+                <option value="48">48</option>
+                <option value="50">50</option>
+                <option value="52">52</option>
+                <option value="54">54</option>
+              </select><br><br>
+              <label for="field3"><span>Please enter your height in inches:</span></label><br>
+              <input type="number" name="height" min="1" max="100" required><br><br>
+              <label for="field4"><span>Please enter your weight in pounds:</span></label><br>
+              <input type="number" name="weight" min="80" max="400" required><br><br>
+              <label for="cup_size"><span>Choose your cup size:</span></label><br>
+              <select id="cup_size_data" name="cup_size" required>
+                <option value="0">AA</option>
+                <option value="1">A</option>
+                <option value="2">B</option>
+                <option value="3">C</option>
+                <option value="4">D</option>
+                <option value="5">DD</option>
+                <option value="6">DDD</option>
+                <option value="7">F</option>
+                <option value="8">G</option>
+                <option value="9">H</option>
+              </select><br><br>
+              <label for="bra_color"><span>Which color bra do you wear most often?</span></label><br>
+              <select id="bra_color_data" name="bra_color" required>
+                <option value="0">Black</option>
+                <option value="5">Nude/Beige</option>
+                <option value="7">White</option>
+                <option value="3">Off-White/Cream</option>
+                <option value="1">Blue</option>
+                <option value="4">Grey</option>
+                <option value="2">Burgandy</option>
+                <option value="6">Red</option>
+              </select><br><br>
+              <label for="mastectomy"><span>Which side did you have your mastectomy?</span></label><br>
+              <select id="mastectomy_data" name="mastectomy_side" required>
+                <option value="4">Right</option>
+                <option value="1">Left</option>
+                <option value="0">Bilateral (Right and Left)</option>
+                <option value="5">Right Partial</option>
+                <option value="3">Left Partial</option>
+                <option value="2">Bilateral Partial</option>
+              </select><br><br>
+              <label for="lace_details"><span>Do you like bras with lace details?</span></label><br>
+              <input type="radio" name="lace_details" value="1" required> Yes<br>
+              <input type="radio" name="lace_details" value="0" required> No<br><br>
+              <label for="shoulder_pain"><span>Do you have shoulder pain?</span></label><br>
+              <input type="radio" name="shoulder_pain" value="1" required> Yes<br>
+              <input type="radio" name="shoulder_pain" value="0" required> No<br><br>
+              <label for="smooth_cup"><span>Do you prefer smooth cups?</span></label><br>
+              <input type="radio" name="smooth_cup" value="1" required> Yes<br>
+              <input type="radio" name="smooth_cup" value="0" required> No<br><br>
+              <label for="molded_foam"><span>Do you like molded foam bras?</span></label><br>
+              <input type="radio" name="molded_foam" value="1" required> Yes<br>
+              <input type="radio" name="molded_foam" value="0" required> No<br><br>
+              <label for="wired"><span>Do you prefer wired or non-wired bras?</span></label><br>
+              <input type="radio" name="wired" value="1" required> Underwire<br>
+              <input type="radio" name="wired" value="0" required> No Wire<br><br>
+              <label for="lace_insert"><span>Do you prefer to wear lower cut bras or bras with a lace cover?</span></label><br>
+              <input type="radio" name="lace_insert" value="1" required> Lace Cover Bras<br>
+              <input type="radio" name="lace_insert" value="0" required> Lower Cut Bras<br><br>
+              <label for="front_back"><span>Do you like bras with front closure, back closure, or both?</span></label><br>
+              <input type="radio" name="front_back" value="1" required> Front Closure<br>
+              <input type="radio" name="front_back" value="0" required> Back Closure<br>
+              <input type="radio" name="front_back" value="2" required> Both Front and Back Closure<br><br>
+              <label for="active"><span>Do you have an active lifestyle?</span></label><br>
+              <input type="radio" name="active" value="1" required> Yes<br>
+              <input type="radio" name="active" value="0" required> No<br><br>
+              <label for="reach_back"><span>Do you have difficulty reaching around your back?</span></label><br>
+              <input type="radio" name="reach_back" value="1" required> Yes<br>
+              <input type="radio" name="reach_back" value="0" required> No<br><br>
+              <label for="embroidery"><span>Do you like embroidery details?</span></label><br>
+              <input type="radio" name="embroidery" value="1" required> Yes<br>
+              <input type="radio" name="embroidery" value="0" required> No<br><br>
+              <label for="jacquard"><span>Do you like jacquard fabric?</span></label><br>
+              <input type="radio" name="jacquard" value="1" required> Yes<br>
+              <input type="radio" name="jacquard" value="0" required> No<br><br>
+              <label for="brand"><span>Which brand do you prefer?</span></label><br>
+              <input type="radio" name="brand" value="1" required> Amoena<br>
+              <input type="radio" name="brand" value="0" required> ABC<br>
+              <input type="radio" name="brand" value="2" required> Hanes<br>
+            <br><br>   
+            <p><label><span>Click the "Submit" button to find your recommended bra style.</span></label></p><br><br>
+            <input type="submit" value="Recommendation">
+            <input type="reset" value="Reset">
+  </form>
+</body>
+</html>
